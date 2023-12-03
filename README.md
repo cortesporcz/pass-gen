@@ -1,2 +1,1 @@
-# pass-gen
-Password Generator (challenge 3)
+# Password Generator Starter Code
