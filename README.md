@@ -1,6 +1,9 @@
 # Password Generator Starter Code
 This is a simple Password Generator
 
+## Description
+A password generator that allows the user to be prompted and will render a password based off of criteria selected. 
+
 # User Story 
 
 AS AN employee with access to sensitive data
@@ -23,3 +26,14 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 
+## Installation
+N/A
+
+## Usage
+N/A 
+
+## Link to website
+https://github.com/cortesporcz/pass-gen
+
+## Credits/ Sources
+UTSA Bootcamp classmates
